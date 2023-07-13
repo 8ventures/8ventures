@@ -4,7 +4,7 @@
 
 🌍 Born under the warm Spanish sun 🇪🇸, but now finding a second home amid the scenic beauty of Geneva, Switzerland 🇨🇭.
 
-💼 With the titles of Portfolio Manager, CFA, and Software Engineer under my belt, I've dedicated myself to building bridges between the financial and tech universes. My endgame? Game-changing solutions enriched with quantitative insights, financial acumen, and technological prowess.
+💼 With the titles of Portfolio Manager and Software Engineer under my belt, I've dedicated myself to building bridges between the financial and tech universes. My endgame? Game-changing solutions enriched with quantitative insights, financial acumen, and technological prowess.
 
 💻 With TypeScript, React, Next.js, and backend sorcery like Node, Express, Mongo, and Postgres at my disposal, I engineer robust, purpose-driven applications. These digital solutions are tailor-made to integrate seamlessly with financial strategies and goals.
 
