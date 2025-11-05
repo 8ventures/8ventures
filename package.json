@@ -1,0 +1,27 @@
+{
+  "name": "coherence-kernel",
+  "version": "0.1.0",
+  "description": "Composable coherence kernel utilities for multiscale dynamic systems",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "lint": "eslint 'src/**/*.{ts,tsx}'"
+  },
+  "keywords": [
+    "coherence",
+    "dynamics",
+    "multiscale",
+    "kernel"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@typescript-eslint/eslint-plugin": "^7.0.0",
+    "@typescript-eslint/parser": "^7.0.0",
+    "eslint": "^8.57.0",
+    "typescript": "^5.4.0"
+  }
+}
